@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @matthew-thaokhamlue
+- 👋 Hi, I’m @matthew-thaokhamlue, a Berlin-based product manager. I
 - 👀 I’m interested in machine learning, NLP, FastAPI using Python
 - 🌱 I’m currently learning machine learning in production level, etc.
 - 💞️ I’m looking to collaborate on cool python projects where my skills meet.
